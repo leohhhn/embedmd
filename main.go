@@ -44,6 +44,7 @@ import (
 	"os"
 	"path/filepath"
 
+	"github.com/leohhhn/embedmd/embedmd"
 	"github.com/pmezard/go-difflib/difflib"
 )
 
