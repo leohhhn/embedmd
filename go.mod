@@ -1,4 +1,4 @@
-module github.com/campoy/embedmd
+module github.com/leohhhn/embedmd
 
 go 1.22.0
 
